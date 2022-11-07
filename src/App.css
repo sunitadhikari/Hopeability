@@ -1,9 +1,15 @@
+.nav{
+  height:300px;
+   
+  /* width: 30px; */
+}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow:hidden;
-  background-color: rgb(225, 188, 55);
+  background-color: rgb(43, 16, 113);
+  height:100px;
 }
 li {
   float: right;
@@ -15,9 +21,20 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 22px;
+  font-size: 25px;
   font-weight: 20px;
 }
 li a:hover {
-  background-color: rgb(95, 167, 18);
+  background-color:rgb(40, 20, 89);
+}
+blog-heading{
+  margin:0px;
+  padding:0px;
+  font-family:poppins;
+  background-color:rgb(238, 133, 242);
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+  
 }

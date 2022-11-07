@@ -36,5 +36,34 @@ blog-heading{
 }
 a{
   text-decoration: none;
+}
+blog-heading ul{
+  list-style:none;
+}
+section{
+  margin:0px;
+  padding:0px;
+  font-family: poppins;
+}
+#blog{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction: column;
+  padding:40px;
+  border-bottom:1px solid rgb(62, 12, 148);
+}
+.blog-heading{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction: column;
+}
+.blog-heading h2{
+  font-size: 1.8rem;
+  color:lightseagreen;
+  font-weight:700;
   
 }
+
+

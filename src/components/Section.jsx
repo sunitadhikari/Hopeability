@@ -14,6 +14,9 @@ const Section = () => {
       {/* <span>Development-life Skills</span> */}
       <h2>Development-life Skills</h2>
     </div>
+    <div className="blog-container"></div>
+    <div className="bolg-box"></div>
+    <div className="blog-img"></div>
   </section>
   </div>
   )

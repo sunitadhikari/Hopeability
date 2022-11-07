@@ -21,6 +21,7 @@ const Section = () => {
           </div>
           <div className="blog-text">
             <span></span>
+            <a href="#" className="blog-title">what had happened of All of the web Design</a>
           </div>
       </div>
     </div>

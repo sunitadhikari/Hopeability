@@ -82,7 +82,23 @@ section{
   height:100%;
   object-fit: cover;
   object-position: center;
-  
+}
+.blog-text{
+  padding:30px;
+  display:flex;
+  flex-direction:column;
+}
+.blog-text span{
+  color:red;
+  font-size:0.9rem;
+}
+.blog-text .blog-title{
+  font-size:1.3rem;
+  font-weight:500;
+  color:rgb(30, 13, 125);
+}
+.blog-test .blog-title:hover{
+  color:red;
 }
 
 

@@ -97,9 +97,19 @@ section{
   font-weight:500;
   color:rgb(30, 13, 125);
 }
-.blog-test .blog-title:hover{
+.blog-text .blog-title:hover{
   color:red;
+  transition: all ease 0.3s;
 }
-
+.blog-text p{
+  color:black;
+  font-size:0.9rem;
+  display:-webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow:ellipsis;
+  margin:20px 0px;
+}
 
 

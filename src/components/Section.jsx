@@ -22,6 +22,7 @@ const Section = () => {
           <div className="blog-text">
             <span></span>
             <a href="#" className="blog-title">what had happened of All of the web Design</a>
+            <p>Development of daily living and life skills focuses on training and development activities.</p>
           </div>
       </div>
     </div>

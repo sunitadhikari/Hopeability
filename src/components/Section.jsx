@@ -3,8 +3,7 @@ import React from 'react'
 const Section = () => {
   return (
   <div>
-  
-  OUR SERVICES
+  <meta name="viewport" contnet="width=device-width, intial-scale=1.0, maximum-scale=1.0, usser-scalable=no"></meta>
   <link rel="shortcut icon" href="image/fav-icon-svg"></link>
   <link rel="preconnect" href="https://fonts.googleapis.com"></link>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>
@@ -12,7 +11,7 @@ const Section = () => {
   <section id="blog">
     <div className="blog-heading">
       {/* <span>Development-life Skills</span> */}
-      <h2>Development-life Skills</h2>
+      <h2>OUR SERVICES</h2>
     </div>
     <div className="blog-container">
        <div className="bolg-box">
@@ -21,8 +20,31 @@ const Section = () => {
           </div>
           <div className="blog-text">
             <span></span>
-            <a href="#" className="blog-title">what had happened of All of the web Design</a>
+            <a href="#" className="blog-title"></a>
             <p>Development of daily living and life skills focuses on training and development activities.</p>
+            <a href="#">Read More</a>
+          </div>
+      </div>
+      <div className="bolg-box">
+          <div className="blog-img">
+            <img src="disablee.jpg" alt="blog"></img>
+          </div>
+          <div className="blog-text">
+            <span></span>
+            <a href="#" className="blog-title">Development-Life Skills</a>
+            <p>Development of daily living and life skills focuses on training and development activities.</p>
+            <a href="#">Read More</a>
+          </div>
+      </div>
+      <div className="bolg-box">
+          <div className="blog-img">
+            <img src="disablee.jpg" alt="blog"></img>
+          </div>
+          <div className="blog-text">
+            <span></span>
+            <a href="#" className="blog-title">Development of daily living and life skills focuses on training and development activities.</a>
+            <p>Development of daily living and life skills focuses on training and development activities.</p>
+            <a href="#">Read More</a>
           </div>
       </div>
     </div>

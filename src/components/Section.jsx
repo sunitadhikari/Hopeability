@@ -14,17 +14,6 @@ const Section = () => {
       <h2>OUR SERVICES</h2>
     </div>
     <div className="blog-container">
-       <div className="bolg-box">
-          <div className="blog-img">
-            <img src="disablee.jpg" alt="blog"></img>
-          </div>
-          <div className="blog-text">
-            <span></span>
-            <a href="#" className="blog-title"></a>
-            <p>Development of daily living and life skills focuses on training and development activities.</p>
-            <a href="#">Read More</a>
-          </div>
-      </div>
       <div className="bolg-box">
           <div className="blog-img">
             <img src="disablee.jpg" alt="blog"></img>
@@ -35,18 +24,29 @@ const Section = () => {
             <p>Development of daily living and life skills focuses on training and development activities.</p>
             <a href="#">Read More</a>
           </div>
-      </div>
-      <div className="bolg-box">
+          </div>
+          <div className="bolg-box">
           <div className="blog-img">
             <img src="disablee.jpg" alt="blog"></img>
           </div>
           <div className="blog-text">
             <span></span>
-            <a href="#" className="blog-title">Development of daily living and life skills focuses on training and development activities.</a>
+            <a href="#" className="blog-title">Development-Life Skills</a>
             <p>Development of daily living and life skills focuses on training and development activities.</p>
             <a href="#">Read More</a>
           </div>
-      </div>
+          </div>
+          <div className="bolg-box">
+          <div className="blog-img">
+            <img src="disablee.jpg" alt="blog"></img>
+          </div>
+          <div className="blog-text">
+            <span></span>
+            <a href="#" className="blog-title">Development-Life Skills</a>
+            <p>Development of daily living and life skills focuses on training and development activities.</p>
+            <a href="#">Read More</a>
+          </div>
+          </div>
     </div>
   </section>
   </div>

@@ -4,6 +4,8 @@ import About from './components/About';
 import Section from './components/Section';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
+import Form from './components/Form';
+import Sections from './components/Sections';
 
 function App() {
   return(
@@ -12,7 +14,9 @@ function App() {
     <>
    <Navbar/>
   {/* <About/> */}
-   <Section/>
+   {/* <Section/> */}
+   <Sections/>
+   <Form/>
   <Footer/>
   </>
   

@@ -13,10 +13,10 @@ function App() {
 
     <>
    <Navbar/>
-  {/* <About/> */}
-   {/* <Section/> */}
-   <Sections/>
-   <Form/>
+  <About/>
+   <Section/>
+   {/* <Sections/> */}
+   {/* <Form/> */}
   <Footer/>
   </>
   

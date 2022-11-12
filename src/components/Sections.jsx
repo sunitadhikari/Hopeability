@@ -6,7 +6,7 @@ const Sections = () => {
     <div className="flip-card">
      <div className="flip-card-inner">
        <div className="flip-card-front">
-         <img src="disable.jpg" alt="Avatar" style="width:300px;height:300px;"></img>
+         <img src="./images./disable.png" alt="Avatar" style="width:300px;height:300px;"></img>
        </div>
        <div className="flip-card-back">
          <h1>John Doe</h1> 

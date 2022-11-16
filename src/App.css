@@ -32,8 +32,8 @@ li a:hover {
   padding:0px;
   font-family:poppins;
   background-color:rgb(238, 133, 242);
-  box-sizing: border-box;
-}
+  box-sizing: border-box; */
+/* } */
 a{
   text-decoration: none;
 }
@@ -138,7 +138,7 @@ section{
 #blog{
   padding:20px;
 }
-} */
+}
 
 .flip-card {
   background-color: transparent;
@@ -178,6 +178,11 @@ section{
   background-color: #2980b9;
   color: white;
   transform: rotateY(180deg);
+}
+.footer{
+  background-color: rgb(7, 58, 58);
+  height: 100%;
+  
 }
 
 

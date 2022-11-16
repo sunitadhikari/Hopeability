@@ -30,9 +30,8 @@ const Footer = () => {
             <ul >
                <li><i className="fab-light fa-phone" style={{color:"white", fontSize:"30px" }}></i></li>
                <li><i class="fa-regular fa-location-dot"></i></li>
-               
+               <li><i class="fa-solid fa-envelopes"></i></li>
             </ul>
-
             </div>
           </div>
           </div>

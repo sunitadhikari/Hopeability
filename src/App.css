@@ -182,7 +182,13 @@ section{
 .footer{
   background-color: rgb(7, 58, 58);
   height: 100%;
-  
+  width:100%;
 }
-
-
+.heading h3{
+text-align:right;
+color: white;
+}
+.middle-container{
+  text-align: center;
+  /* display:grid; */
+}
